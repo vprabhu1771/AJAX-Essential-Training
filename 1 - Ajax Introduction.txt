@@ -1,0 +1,13 @@
+What is AJAX
+
+AJAX is not a programming language
+
+AJAX is a technique which can update and display new data from a php or asp webpage without refreshing the webpage
+
+AJAX is a mixture of XML and JavaScript which means Asynchronous JavaScript & XML
+
+We can use AJAX either in JavaScript way or in JQuery way also.
+
+We can also use AJAX to READ, CREATE, UPDATE, DELETE data from database without refreshing the webpage
+
+In This we'll use mysql as Database

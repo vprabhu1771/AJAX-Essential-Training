@@ -1,0 +1,22 @@
+Request State
+
+0 Request not initialized
+
+1 Server Connection Estabilished
+
+2 Request Received
+
+3 Processing Request
+
+4 Request Finished and Response is ready
+
+
+Status
+
+200 OK
+
+403 Forbidden
+
+404 Page not Found
+
+500 Server Error
