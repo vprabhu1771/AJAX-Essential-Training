@@ -38,4 +38,5 @@
     else {
         echo "Note: Something is more there but not visible because of a variable inside it, which is actually not declared any where.";
     }
-    
+
+?>
